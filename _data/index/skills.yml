@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Hadoop Ecosystem, SQL, Apache Spark, Python/PySpark, Big Data Architectures, Data Visualization, Apache Airflow, AWS
+percentage: 80, 85, 85, 80, 78, 75, 75, 85
