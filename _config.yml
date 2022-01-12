@@ -1,31 +1,28 @@
 # Website settings
-title: Mahdi Karabiben
-description: The website of Mahdi Karabiben, a data engineer who's passionate about data visualization.
-keywords: Mahdi, Karabiben, github, data, visualization, consultant, big-data, engineer
-baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://mahdiqb.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+title: Vishwas Arunkumar
+description: The website of Vishwas Arunkumar, a senior data engineer helping build data platforms on the cloud
+keywords: Vishwas, Arunkumar, github, data, engineer
+baseurl: / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://vishwasarunkumar.github.io/ # url should be 'http://<github_username>.github.io/homepage' as before
+img_path: /Jalpc/static/assets/img/blog # url should be '/homepage/static/assets/img/blog' as before
 
-
-author: 
-  name: Mahdi Karabiben 
-  first_name: Mahdi 
-  last_name: Karabiben 
-  avatar: /static/assets/img/landing/avatar.jpg  
-  github_username: mahdiqb 
-  linkedin_id:  mahdikarabiben 
-  facebook_username: mahdi.qarabiben  
-  twitter_username: MahdiKarabiben
-  email: mahdikarabibene@yahoo.com 
-  cv: https://mahdiqb.github.io/cv.pdf  
+author:
+  name: Vishwas Arunkumar
+  first_name: Vishwas
+  last_name: Arunkumar
+  avatar: /static/assets/img/landing/avatar.jpeg
+  github_username: vishwasarunkumar
+  linkedin_id: vishwas-arunkumar-5aba1aa
+  email: vishwas.ma@gmail.com
+  cv: https://vishwasarunkumar.github.io/cv.pdf
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-   - name: icon-database
-   - name: icon-d3
+    - name: icon-database
+    - name: icon-d3
   skill_icon2:
-   - name: icon-python
-   - name: icon-database
-  desc: Hi there 👋 I'm a data engineer based in Paris. I'm very passionate about open-source projects and enjoy building data pipelines, datalakes, and data services - basically, I enjoy working with data and designing scalable solutions.
+    - name: icon-python
+    - name: icon-go
+  desc: Hi there 👋 I'm a engineer with experience of building data platforms and an Msc in Data Science, I enjoy working with data and building simple scalable solutions.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -33,23 +30,23 @@ author:
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-127104124-1
+# ga: # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+#   id: UA-127104124-1
 
 ## google optimize
 # go:
-  # id:
+# id:
 
 ## growingIO
 # gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-  # id:
+# id:
 
 ## donation
-donation: off  # type 'on'/'off' to choice display donation button at post page or not
+donation: off # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+index_carousel: on # index page carousel switch
+blog_carousel: off # blog page carousel switch
 
 # scss
 sass:
@@ -64,4 +61,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
