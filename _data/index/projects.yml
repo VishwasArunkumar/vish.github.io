@@ -4,7 +4,7 @@
   i18n: jalpc
   img: /static/assets/img/landing/1000mercis.png
   img: /static/assets/img/landing/1000mercis.png
-  desc: Productionized user-product recommendation models using AWS Batch and AWS Step Functions. 
+  desc: Productionized user-product recommendation models using AWS Batch and Step Functions. Exposed the resulting recommendations via an API written in python.
 
 - name: Celer, a traffic and navigation app
   i18n: cpython
