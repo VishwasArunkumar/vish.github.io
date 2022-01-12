@@ -44,7 +44,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Accenture (Bangalore,India)
+    detail: Accenture (Bangalore)
     i18n: company_b
   desc:
     detail: Worked on various projects around data processing, building ETL pipelines and data marts. Tech Stack -Microsoft SQL Server, SQL, SSIS.

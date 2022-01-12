@@ -18,7 +18,7 @@ author:
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-database
-    - name: fa-aws
+    - name: fa-brands fa-aws
   skill_icon2:
     - name: icon-python
     - name: icon-go
