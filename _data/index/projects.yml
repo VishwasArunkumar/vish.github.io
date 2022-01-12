@@ -1,10 +1,10 @@
 # projects section data
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Setting Up a Big Data Pipeline
+- name: Content Personalisation
   i18n: jalpc
-  gh_user: mahdiqb
   img: /static/assets/img/landing/1000mercis.png
-  desc: Revamped the data architecture of the product EmailAttitude through the implementation of a Big Data pipeline using Apache Spark, Apache Airflow, and Apache Zeppelin.
+  img: /static/assets/img/landing/1000mercis.png
+  desc: Productionized user-product recommendation models using AWS Batch and AWS Step Functions. 
 
 - name: Celer, a traffic and navigation app
   i18n: cpython
