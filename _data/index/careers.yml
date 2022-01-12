@@ -2,7 +2,7 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: Lyst (London, UK)
+    detail: Lyst (London)
     i18n: company_a
   desc:
     detail: Working on  content personalization to drive user engagement. Tech Stack-AWS Batch, Step Functions, Terraform, Snowflake, Python.
@@ -16,7 +16,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: River Island (London, UK)
+    detail: River Island (London)
     i18n: company_a
   desc:
     detail: Worder on building a self serve data platform on AWS and solving problems around stock replenishment and allocation.Tech Stack- Airflow on ECS, Lambdas, Snowflake, SQS, Terraform, Python, Golang.
@@ -30,7 +30,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Tata Consultancy Services (Birmingham,UK/Melbourne,Australia/Bangalore,India)
+    detail: Tata Consultancy Services (Birmingham,Melbourne,Bangalore)
     i18n: company_b
   desc:
     detail: Worked on various projects around data processing, building ETL pipelines and data marts. Tech Stack -Oracle, SQL, SSIS.
@@ -39,7 +39,7 @@
     detail: Dec. 2010 - Sep. 2017
     i18n: company_b_date
   job:
-    detail: Data Engineer/Lead Data Engineer
+    detail: Senior Data Engineer/Lead Data Engineer
     i18n: company_b_job
   icon: fa-plus-square
 
