@@ -1,16 +1,16 @@
 # projects section data
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Content personalisation
-  desc: Productionized user-product recommendation models and exposed the resulting recommendations via an API
+  desc: Productionized user-product recommendation models using AWS batch and step function. Exposed the resulting recommendations via an API written in python.
 
 - name: Built a self serve data platform
   desc: Built a data lake on AWS and exposed the data on Snowflake for consumers (BI and Data Scientist) to be able to self serve
 
-- name: Built a layer of data governance for data in the data lake
-  desc: Built a serverless framework to validate the schema of all the data entring into the data lake
+- name: Built a layer of data governance for data igested imto the data lake
+  desc: Built a serverless framework using AWS lambda functions to validate the schema of all the data ingested to the data lake
 
 - name: Ingest real time events into the data lake
-  desc: Built a framework to ingest real time events from an OLTP into the data lake
+  desc: Built a framework to ingest real time events from an OLTP into the data lake using SQS and Lambda functions.
 
 - name: Daily stock allocation and replenishment
   desc: Productionised model outputs to drive daily store replenishment and allocation
