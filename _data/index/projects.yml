@@ -1,40 +1,16 @@
 # projects section data
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Content Personalisation
-  i18n: jalpc
-  img: /static/assets/img/landing/1000mercis.png
-  img: /static/assets/img/landing/1000mercis.png
   desc: Productionized user-product recommendation models using AWS Batch and Step Functions. Exposed the resulting recommendations via an API written in python.
 
-- name: Celer, a traffic and navigation app
-  i18n: cpython
-  gh_user: mahdiqb
-  img: /static/assets/img/landing/insat.png
-  desc: Conceived and implemented a three-layer data architecture (Lambda Architecture) for a traffic and navigation Android app.
-  
-- name: An engine that generates notebook-based dynamic dashboards
-  i18n: cpython
-  url: https://towardsdatascience.com/creating-notebook-based-dynamic-dashboards-91f936adc6f3
-  repo: mahdiqb/dynamic_dashboards_generator
-  img: /static/assets/img/landing/jupyter_logo.png
-  desc: Built a python-based engine that generates dynamic dashboards via a search page.
+- name: P2
+  desc: D2
 
-- name: Visualizing Electoral Data
-  i18n: google
-  repo: mahdiqb/di_dataviz
-  img: /static/assets/img/landing/di.png
-  desc: Created a set of data visualizations for the 2018 tunisian municipal elections.
-  url: https://medium.com/@mahdikarabiben/visualizing-electoral-data-1b35d854cfec
-  
-- name: An interactive dashboard to visualize the impact of natural disasters
-  i18n: cpython
-  url: https://github.com/dataforgoodfr/batch8_worldbank
-  repo: dataforgoodfr/batch8_worldbank
-  img: /static/assets/img/landing/data_for_good.png
-  desc: Participated in designing and implementing an interactive dashboard that showcases the human and financial impacts of various types of disasters on the world. The dashboard was built in collaboration with the World Bank and is intended to be used by the World Bank's analysts.
+- name: P2
+  desc: D2
 
-- name: Monumental 3D Projection Mapping
-  i18n: google
-  url: https://www.youtube.com/watch?v=cn4LmI7fdds
-  img: /static/assets/img/landing/cine.png
-  desc: Participated in the different phases of conceiving and creating a monumental 3D projection mapping during the 10th edition of the JAM SESSION, an event organized at INSAT by Ciné-Radio INSAT. Tools used are Blender, Resolume Arena 5, and Adobe After Effects.
+- name: P2
+  desc: D2
+
+- name: P2
+  desc: D2
