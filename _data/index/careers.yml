@@ -2,13 +2,13 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: Zendesk
+    detail: Lyst (London, UK)
     i18n: company_a
   desc:
-    detail: Working with the Enterprise Data & Analytics team.
+    detail: Working on  content personalization to drive user engagement. Tech Stack-AWS Batch, Step Functions, Terraform, Snowflake, Python.
     i18n: company_b_desc
   date:
-    detail: Nov. 2021 - Present
+    detail: May. 2021 - Present
     i18n: company_b_date
   job:
     detail: Senior Data Engineer
@@ -16,64 +16,43 @@
   icon: fa-plus-square
 
 - name:
-    detail: FactSet
+    detail: River Island (London, UK)
     i18n: company_a
   desc:
-    detail: Worked on multiple projects on the AWS cloud (desiged and implemented cloud-based data lakes, data pipelines, and ML Ops pipelines).
-            Designed and implemented an Apache Superset environment used by multiple teams within the company.
+    detail: Worder on building a self serve data platform on AWS and solving problems around stock replenishment and allocation.Tech Stack- Airflow on ECS, Lambdas, Snowflake, SQS, Terraform, Python, Golang.
     i18n: company_b_desc
   date:
-    detail: Apr. 2020 - Nov. 2021
+    detail: Feb. 2018 - May. 2021
     i18n: company_b_date
   job:
-    detail: Data Engineer
+    detail: Senior Data Engineer
     i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: Crédit Agricole CIB
+    detail: Tata Consultancy Services (Birmingham,UK/Melbourne,Australia/Bangalore,India)
     i18n: company_b
   desc:
-    detail: Worked as a consultant with CA-CIB's data teams on implementing a Big Data architecture for the FRTB regulations.
-            The project consisted of building a Hadoop data lake to store all of the bank's markets risk data.
+    detail: Worked on various projects around data processing, building ETL pipelines and data marts. Tech Stack -Oracle, SQL, SSIS.
     i18n: company_b_desc
   date:
-    detail: Dec. 2018 - Apr. 2020
+    detail: Dec. 2010 - Sep. 2017
     i18n: company_b_date
   job:
-    detail: Big Data Consultant
+    detail: Data Engineer/Lead Data Engineer
     i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: Numberly
+    detail: Accenture (Bangalore,India)
     i18n: company_b
   desc:
-    detail: Worked at Numberly (1000mercis group) as a data engineer for my end-of-studies project. The project consisted of building
-            data pipelines for a Big Data architecture using Apache Spark (PySpark), Apache Airflow, and Apache Zeppelin.
-            The data was mainly stored on MSSQL and Apache Hive (on top of Apache Hadoop).
+    detail: Worked on various projects around data processing, building ETL pipelines and data marts. Tech Stack -Microsoft SQL Server, SQL, SSIS.
     i18n: company_a_desc
   date:
-    detail: Jan. 2018 - Jul. 2018
+    detail: Jun. 2006 - Nov. 2010
     i18n: company_a_date
   job:
-    detail: Big Data Developer
+    detail: Software Engineer/Senior Software Engineer
     i18n: company_a_job
-  icon: fa-plus-square
-
-- name:
-    detail: Democracy International
-    i18n: company_a
-  desc:
-    detail: Worked at Democracy International on a campaign to deliver useful information to Tunisian voters
-            to motivate them to participate in the country's upcoming municipal elections.
-            Turned the data provided by Tunisian ministries and associations into interactive 
-            visualizations that helped voters get a better understanding of their municipalities' data.
-    i18n: company_b_desc
-  date:
-    detail: May. 2017 - Jan. 2018
-    i18n: company_b_date
-  job:
-    detail: Data Visualization Specialist
-    i18n: company_b_job
   icon: fa-plus-square
