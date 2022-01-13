@@ -17,8 +17,8 @@ author:
   cv: https://vishwasarunkumar.github.io/cv.pdf
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-database
-    - name: fa-snowflake
+    - name: icon-database
+    - name: icon-aws
   skill_icon2:
     - name: icon-python
     - name: icon-go
