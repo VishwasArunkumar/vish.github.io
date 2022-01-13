@@ -30,7 +30,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Msc Data Science
+    detail: Msc Data Science (University of London)
     i18n: company_a
   desc:
     detail: Completed a Masters in Data Science, attending college in the evenings after work.
@@ -39,7 +39,7 @@
     detail: Sep. 2017 - Sep. 2019
     i18n: company_b_date
   job:
-    detail: Birkbeck College, University of London
+    detail: Student, Birkbeck College
     i18n: company_b_job
   icon: fa-plus-square
 
