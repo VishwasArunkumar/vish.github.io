@@ -5,7 +5,7 @@
     detail: Lyst (London)
     i18n: company_a
   desc:
-    detail: Working on  content personalization to drive user engagement. Tech Stack-AWS Batch, Step Functions, Terraform, Snowflake, Python.
+    detail: Working on solving problems around content personalization to drive in app user engagement. Tech Stack-AWS Batch, Step Functions, Terraform, Snowflake, Python.
     i18n: company_b_desc
   date:
     detail: May. 2021 - Present
@@ -19,7 +19,7 @@
     detail: River Island (London)
     i18n: company_a
   desc:
-    detail: Worder on building a self serve data platform on AWS and solving problems around stock replenishment and allocation.Tech Stack- Airflow on ECS, Lambdas, Snowflake, SQS, Terraform, Python, Golang.
+    detail: Built a self serve data platform on AWS and solved problems around stock replenishment and allocation.Tech Stack- Airflow on ECS, Lambdas, Snowflake, SQS, Terraform, Python, Golang.
     i18n: company_b_desc
   date:
     detail: Feb. 2018 - May. 2021
@@ -30,10 +30,24 @@
   icon: fa-plus-square
 
 - name:
+    detail: Msc Data Science
+    i18n: company_a
+  desc:
+    detail: Completed a Masters in Data Science, attending college in the evenings after work.
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2017 - Sep. 2019
+    i18n: company_b_date
+  job:
+    detail: Birkbeck College, University of London
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
     detail: Tata Consultancy Services (Birmingham,Melbourne,Bangalore)
     i18n: company_b
   desc:
-    detail: Worked on various projects around data processing, building ETL pipelines and data marts. Tech Stack -Oracle, SQL, SSIS.
+    detail: Worked on various projects involving data processing, building ETL pipelines and data marts. Tech Stack -Oracle, SQL, SSIS.
     i18n: company_b_desc
   date:
     detail: Dec. 2010 - Sep. 2017
@@ -47,7 +61,7 @@
     detail: Accenture (Bangalore)
     i18n: company_b
   desc:
-    detail: Worked on various projects around data processing, building ETL pipelines and data marts. Tech Stack -Microsoft SQL Server, SQL, SSIS.
+    detail: Worked on various projects involving data processing, building ETL pipelines and data marts. Tech Stack -Microsoft SQL Server, SQL, SSIS.
     i18n: company_a_desc
   date:
     detail: Jun. 2006 - Nov. 2010
