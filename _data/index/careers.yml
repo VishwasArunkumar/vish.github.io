@@ -1,5 +1,18 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: River Island (Contractor, Dubai)
+    i18n: company_a
+  desc:
+    detail: Building a self serve data platform. Tech Stack- AWS, Snowflake, Terraform, Python.
+    i18n: company_b_desc
+  date:
+    detail: March. 2022 - Present
+    i18n: company_b_date
+  job:
+    detail: Senior Data Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
 
 - name:
     detail: Lyst (London)
@@ -8,7 +21,7 @@
     detail: Working on solving problems around content personalization to drive in app user engagement. Tech Stack-AWS Batch, Step Functions, Terraform, Snowflake, Python.
     i18n: company_b_desc
   date:
-    detail: May. 2021 - Present
+    detail: May. 2021 - Dec. 2022
     i18n: company_b_date
   job:
     detail: Senior Data Engineer
@@ -19,7 +32,7 @@
     detail: River Island (London)
     i18n: company_a
   desc:
-    detail: Built a self serve data platform on AWS and solved problems around stock replenishment and allocation.Tech Stack- Airflow on ECS, Lambdas, Snowflake, SQS, Terraform, Python, Golang.
+    detail: Building a self serve data platform and solved problems around stock replenishment and allocation.Tech Stack- AWS, Airflow on ECS, Lambdas, Snowflake, Terraform, Python, Golang.
     i18n: company_b_desc
   date:
     detail: Feb. 2018 - May. 2021
@@ -33,7 +46,7 @@
     detail: Msc Data Science (University of London)
     i18n: company_a
   desc:
-    detail: Completed a Masters in Data Science, attending college in the evenings after work.
+    detail: Completed a Masters in Data Science
     i18n: company_b_desc
   date:
     detail: Sep. 2017 - Sep. 2019
