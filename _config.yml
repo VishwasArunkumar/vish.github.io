@@ -11,7 +11,7 @@ author:
   first_name: Vishwas
   last_name: Arunkumar
   avatar: /static/assets/img/landing/avatar.jpeg
-  github_username: vishwasarunkumar
+  # github_username: vishwasarunkumar
   linkedin_id: vishwas-arunkumar-5aba1aa
   email: vishwas.ma@gmail.com
   cv: https://vishwasarunkumar.github.io/cv.pdf

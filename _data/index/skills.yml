@@ -2,5 +2,5 @@
 
 label: Ability
 id: cs
-aspects: Python, SQL, Golang, AWS, Apache Airflow, Snowflake, Terraform, Docker
-percentage: 80, 90, 70, 80, 75, 80, 80, 70
+aspects: Python, SQL, Golang, AWS, Apache Airflow, Snowflake, Terraform, Docker, DBT
+percentage: 80, 90, 70, 80, 75, 80, 80, 70, 70
