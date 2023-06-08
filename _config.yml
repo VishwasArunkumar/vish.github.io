@@ -1,6 +1,6 @@
 # Website settings
 title: Vishwas Arunkumar
-description: The website of Vishwas Arunkumar, a senior data engineer helping build data platforms on the cloud
+description: The website of Vishwas Arunkumar, a engineer helping build data platforms on the cloud
 keywords: Vishwas, Arunkumar, github, data, engineer
 baseurl: / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://vishwasarunkumar.github.io/ # url should be 'http://<github_username>.github.io/homepage' as before
@@ -17,12 +17,12 @@ author:
   cv: https://vishwasarunkumar.github.io/cv.pdf
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-database
+    - name: icon-snowflake
     - name: icon-aws
   skill_icon2:
     - name: icon-python
     - name: icon-go
-  desc: Hi there 👋 I'm a data engineer with experience of building data platforms and a Msc in Data Science. I enjoy working with data and building simple scalable solutions to solve business problems.
+  desc: Hi there 👋 I'm an engineer with over 14 years of experience in building data platforms and a Msc in Data Science. I enjoy working with data and building simple scalable solutions to solve business problems.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

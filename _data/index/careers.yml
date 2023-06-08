@@ -4,7 +4,7 @@
     detail: River Island (Contractor, Dubai)
     i18n: company_a
   desc:
-    detail: Building a self serve data platform. Tech Stack- AWS, Snowflake, Terraform, Python.
+    detail: Building a self serve data platform. Tech Stack- AWS, Snowflake, Terraform, Python, DBT.
     i18n: company_b_desc
   date:
     detail: March. 2022 - Present
@@ -21,7 +21,7 @@
     detail: Working on solving problems around content personalization to drive in app user engagement. Tech Stack-AWS Batch, Step Functions, Terraform, Snowflake, Python.
     i18n: company_b_desc
   date:
-    detail: May. 2021 - Dec. 2022
+    detail: May. 2021 - Feb. 2022
     i18n: company_b_date
   job:
     detail: Senior Data Engineer
