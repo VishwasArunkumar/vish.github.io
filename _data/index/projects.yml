@@ -1,8 +1,7 @@
 # projects section data
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: IAC for Snowflake using Terraform
-  desc: Defined standards (compute, security, access) for resources on Snowflake and developed Terraform
-modules using the Snowflake provider to help teams spin up infra on Snowflake as per set guidelines
+  desc: Defined standards (compute, security, access) for resources on Snowflake and developed Terraform modules using the Snowflake provider to help teams spin up infra on Snowflake as per set guidelines
 
 - name: Built a self serve data platform
   desc: Built a data lake on AWS and exposed the data on Snowflake for consumers (BI and Data Scientist) to be able to self serve
